@@ -18,3 +18,5 @@
 [Ejercicios pr0302](./UT03/pr0302/pr0302.md)
 ## Ejercicios sobre la UT05 (PR0501)
 [Ejercicios pr0501](./UT05/pr0501/pr0501.md)
+## Ejercicios sobre la UT05 (PR0502)
+[Ejercicios pr0502](./UT05/pr0502/pr0502.md)
