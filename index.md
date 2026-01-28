@@ -28,3 +28,5 @@
 [Ejercicios pr0603](./UT06/pr0603/pr0603.md)
 ## Ejercicios sobre la UT06 (PR0604)
 [Ejercicios pr0604](./UT06/pr0604/pr0604.md)
+## Ejercicios sobre la UT06 (PR0606)
+[Ejercicios pr0606](./UT06/pr0606/pr0606.md)
